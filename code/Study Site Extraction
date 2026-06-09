@@ -106,4 +106,4 @@ theme_minimal() +
     title = "Sampled Reefs with Islands" 
   ) 
 #Export as shapefile 
-st_write(sampled_reefs, "sampled_reefs4.shp") 
+st_write(sampled_reefs, "sampled_reefs.shp") 
